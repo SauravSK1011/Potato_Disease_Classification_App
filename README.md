@@ -1,4 +1,4 @@
-# tdcapp
+# Potato Disease Classification App
 
 A new Flutter project.
 
