@@ -1,6 +1,10 @@
 # Crop Disease Prediction App
 
 This is a Crop Disease Prediction App That helps farmers for the Prediction of early Disease of crops specifically potato crops.
+<img src=1.png width="180"><img src=2.png width="180">
+<img src=3.png width="180">
+<img src=4.png width="180">
+<img src=5.png width="180">
 
 
 ## Build with
