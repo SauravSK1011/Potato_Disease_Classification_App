@@ -1,10 +1,12 @@
-# Potato Disease Classification App
+# Crop Disease Prediction App
 
-A new Flutter project.
+This is a Crop Disease Prediction App That helps farmers for the Prediction of early Disease of crops specifically potato crops.
 
-## Getting Started
+## Build with
 
-This project is a starting point for a Flutter application.
+1. Frontend:- Flutter(https://flutter.dev/)
+2. Backend (Machine learning model):- Python(https://www.python.org/)
+3. Backend Hosted on:- Google Cloud(https://cloud.google.com/)
 
 A few resources to get you started if this is your first Flutter project:
 
